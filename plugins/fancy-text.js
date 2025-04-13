@@ -8,7 +8,7 @@ cmd({
   desc: "Convert text into various fonts.",
   category: "tools",
   filename: __filename
-}, async (conn, m, store, { from, quoted, args, q, reply }) => {
+}, async (conn, m, stoe, { from, quoted, args, q, reply }) => {
   try {
     if (!q) {
       return reply("❎ Please provide text to convert into fancy fonts.\n\n*Example:* .fancy Hello");
@@ -22,7 +22,7 @@ cmd({
     }
 
     const fonts = response.data.result.map(item => `*${item.name}:*\n${item.result}`).join("\n\n");
-    const resultText = `✨ *Fancy Fonts Converter* ✨\n\n${fonts}\n\n> *Powered by JAWADTECHX*`;
+    const resultText = `✨ *Fancy Fonts Converter* ✨\n\n${fonts}\n\n> *Pᴏᴡᴇʀᴇᴅ Bʏ ᴍᴏɪZ*`;
 
     await conn.sendMessage(from, { text: resultText }, { quoted: m });
   } catch (error) {
