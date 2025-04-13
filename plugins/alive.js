@@ -3,7 +3,7 @@ const os = require("os");
 const { runtime } = require('../lib/functions');
 
 cmd({
-    pattern: "alive",
+    pattern: "alive",'
     alias: ["status", "runtime", "uptime"],
     desc: "Check uptime and system status",
     category: "main",
@@ -13,16 +13,16 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         // Generate system status message
-        const status = `╭━━〔 *KHAN-MD* 〕━━┈⊷
+        const status = `╭━━〔 *MOIZ-MD* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *⏳Uptime*:  ${runtime(process.uptime())} 
 ┃◈┃• *📟 Ram usage*: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}MB
 ┃◈┃• *⚙️ HostName*: ${os.hostname()}
-┃◈┃• *👨‍💻 Owner*: Jawad TechX
+┃◈┃• *👨‍💻 Owner*: MOIZxTOXIC
 ┃◈┃• *🧬 Version*: 3.0.0 BETA
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX`;
+> © ᴘᴏᴡᴇʀᴇᴅ Bʏ Mᴏɪᴢ`;
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
@@ -34,7 +34,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363354023106228@newsletter',
-                    newsletterName: 'JawadTechX',
+                    newsletterName: 'MOIZ-MD',
                     serverMessageId: 143
                 }
             }
