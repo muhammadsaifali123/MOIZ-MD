@@ -297,7 +297,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/89xq3r.jpg` },
+                image: { url: `https://files.catbox.moe/afsrye.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -305,7 +305,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: 'JawadTechX',
+                        newsletterName: 'MOIZ-MD',
                         serverMessageId: 143
                     }
                 }
@@ -315,7 +315,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/XdTechPro/KHAN-DATA/raw/refs/heads/main/autovoice/menunew.m4a' },
+            audio: { url: 'https://files.catbox.moe/sti3d1.aac' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
