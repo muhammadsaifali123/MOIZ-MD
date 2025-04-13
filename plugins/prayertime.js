@@ -61,7 +61,7 @@ async(conn, mek, m, {from, l, quoted, body, isCmd, command, args, q, isGroup, se
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: 'JawadTechX',
+                        newsletterName: 'MOIZ-MD',
                         serverMessageId: 143
                     }
                 }
@@ -71,7 +71,7 @@ async(conn, mek, m, {from, l, quoted, body, isCmd, command, args, q, isGroup, se
 
         // Optionally, send an audio file related to the prayer time
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/XdTechPro/KHAN-DATA/raw/refs/heads/main/autovoice/Islamic.m4a' },
+            audio: { url: 'https://files.catbox.moe/hqk6ef.mp3' },
             mimetype: 'audio/mp4',
             ptt: false
         }, { quoted: mek });
