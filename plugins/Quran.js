@@ -66,7 +66,7 @@ ${translatedTafsirEnglish.text}`;
           forwardingScore: 999,  
           isForwarded: true,   
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363354023106228@newsletter', 
+            newsletterJid: '120363409500820105@newsletter', 
             newsletterName: 'MOIZ-MD', 
             serverMessageId: 143
           }
@@ -456,7 +456,7 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
+                        newsletterJid: '120363409500820105@newsletter',
                         newsletterName: 'MOIZ-MD',
                         serverMessageId: 143
                     }
