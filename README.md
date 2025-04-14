@@ -64,12 +64,12 @@
 
 ### <br> ❖ FOR SUPPORT ❖
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME LEGEND-RAZA࿐➺`**
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME MOIZ࿐➺`**
 
 -------
 
 <p align="center">
-  <a href="https://wa.me/+923280966780?text=*_HI+LEGEND-RAZA+I+NEED+HELP.+I+MESSAGE+YOU+FROM+RAZA-INC-MD+REPO_*" target="_blank">
+  <a href="https://wa.me/+923198493662?text=*_HI+MOIZ+I+NEED+HELP.+I+MESSAGE+YOU+FROM+MOIZ-MD+REPO_*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
@@ -102,7 +102,7 @@
 ----------
 
 <p align="center">
-<a href='https://pairwebown-7b4758583df5.herokuapp.com/' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
+<a href='https://moizxpair-4b6982d1042f.herokuapp.com/' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
 </p>
  
 ----------
