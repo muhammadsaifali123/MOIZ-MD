@@ -23,14 +23,6 @@
  
 ------------
 
-<img
-  align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=RAZA-INC-MD🚀&description=🥂❤️🔐THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20LEGEND%20RAZA🖤🔥💀&https://files.catbox.moe/z6d57v.jpg?
-  v=4&backgroundColor=%23ecf0f1&github=LEGEND-RAZA&pattern=leaf&colorPattern=%23eaeaea"/>
-
-<br>
-
-`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
   <!-- Developer -->
   <img src="https://img.shields.io/static/v1?label=OWNER&message=LEGEND%20RAZA&color=pink&style=plastic" alt="Developer Badge">
