@@ -10,8 +10,8 @@
 --------------------------
 
 
-### <br>  ❖ RAZA-INC-MD ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY LEGEND-RAZA`** 🔰
+### <br>  ❖ MOIZ-INC-MD ❖
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY MOIZ AHMED`** 🔰
 
 ----------
 
