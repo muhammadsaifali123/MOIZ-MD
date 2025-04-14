@@ -19,9 +19,7 @@
 
 -------
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=✰RAZA-INC-MD-WHATSAPP-BOT✰" alt="Typing SVG" /></a>
- 
-------------
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=✰MOIZ-MD-WHATSAPP-BOT✰" alt="Typing SVG" /></a>
 
 
   <!-- Developer -->
