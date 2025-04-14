@@ -10,7 +10,7 @@
 --------------------------
 
 
-### <br>  ❖ MOIZ-INC-MD ❖
+### <br>  ❖ MOIZ-MD ❖
 🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY MOIZ AHMED`** 🔰
 
 ----------
