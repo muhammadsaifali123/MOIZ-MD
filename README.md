@@ -9,18 +9,7 @@
 ---
 
 --------------------------
-- **ANTI-DELETED 🚀**
-- **ANTI-VIEWONCE 🚀**
-- **AUTO-UPDATE 🚀**
-- **AUTO_VOICE 🚀**
-- **AUTO_STICKER 🚀**
-- **AUTO_REPLY 🚀**
-- **ALWAYS_ONLINE_OFFLINE 🚀**
-- **STATUS_REPLY_REACT 🚀**
-- **ON_AND_OFF_DATABASE🚀**
-- © ***POWERD BY LEGEND-RAZA***
 
----------
 
 ### <br>  ❖ RAZA-INC-MD ❖
 🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY LEGEND-RAZA`** 🔰
