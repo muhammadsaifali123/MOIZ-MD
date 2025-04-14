@@ -20,7 +20,7 @@
 
 
   <!-- Developer -->
-  <img src="https://img.shields.io/static/v1?label=OWNER&message=LEGEND%20RAZA&color=pink&style=plastic" alt="Developer Badge">
+  <img src="https://img.shields.io/static/v1?label=OWNER&message=MOIZ%20AHMED&color=pink&style=plastic" alt="Developer Badge">
                   
 </p>
 
@@ -29,7 +29,7 @@
 
 <div align="center"><br> <img src="https://profile-counter.glitch.me/RAZA-INC-MD/count.svg" />
   
-`© CREATED BY LEGEND-RAZA`
+`© CREATED BY MOIZ-MD`
 -
 
 ------------
