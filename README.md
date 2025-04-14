@@ -24,7 +24,7 @@
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=RAZA-INC-MD🚀&description=🥂❤️🔐THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20LEGEND%20RAZA🖤🔥💀&image=https://files.catbox.moe/7dj0d0.jpg?v=4&backgroundColor=%23ecf0f1&github=LEGEND-RAZA&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=RAZA-INC-MD🚀&description=🥂❤️🔐THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20LEGEND%20RAZA🖤🔥💀&https://files.catbox.moe/z6d57v.jpg?v=4&backgroundColor=%23ecf0f1&github=LEGEND-RAZA&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
