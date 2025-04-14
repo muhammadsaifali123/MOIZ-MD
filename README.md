@@ -120,10 +120,6 @@
 
 ----------
 
-**⚠️THANKS FOR USING RAZA-INC-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE RAZA-INC-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANK YOU BY LEGEND-RAZA KING OF WHATSAPP♥️☣️🥂**
-
-------------
-
 ![license](https://img.shields.io/github/license/LEGEND-RAZA/RAZA-INC-MD-V1?color=green&label=License&style=plastic)
 
 ----------
