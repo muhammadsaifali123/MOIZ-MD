@@ -1,6 +1,6 @@
-name: khan-md
+name: MOIZ-MD
 services:
-  - name: khan-md-service
+  - name: MOIZ-MD-service
     type: web
     ports:
       - 5000
