@@ -102,7 +102,7 @@
 ----------
 
 <p align="center">
-<a href='https://moizxpair-4b6982d1042f.herokuapp.com/' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
+<a href='https://moizxpair2-484fdacc7c65.herokuapp.com/' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
 </p>
  
 ----------
@@ -115,7 +115,7 @@
 
 ------------
 
-<a href='https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FLEGEND-RAZA%2FKHAN-MD%2Ftree%2Fmain' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=blue'/></a>  
+<a href='https://dashboard.heroku.com/new?template=hhttps://github.com/muhammadsaifali123/MOIZ-MD' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=blue'/></a>  
 </p>
 
 ----------
