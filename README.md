@@ -41,7 +41,7 @@
 
 
 
-[![FORK RAZA-INC-MD](https://img.shields.io/badge/FORK%20-RAZA%20INC%20MD-white)](https://github.com/LEGEND-RAZA/RAZA-INC-MD-V1/fork)
+[![MOIZ-MD](https://img.shields.io/badge/FORK%20-RAZA%20INC%20MD-white)](https://github.com/muhammadsaifali123/MOIZ-MD/fork)
 
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
